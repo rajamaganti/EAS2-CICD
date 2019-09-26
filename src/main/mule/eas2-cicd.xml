@@ -9,6 +9,6 @@ http://www.mulesoft.org/schema/mule/http http://www.mulesoft.org/schema/mule/htt
 	</http:listener-config>
 	<flow name="eas2-cicdFlow" doc:id="5c1acb0b-9bb0-4413-ae61-199ab8db7be9" >
 		<http:listener doc:name="Listener" doc:id="13359f17-da83-4ed4-a97d-bfa88d1a9f14" config-ref="HTTP_Listener_config" path="/EAS2-CICD" allowedMethods="GET"/>
-		<set-payload value="EAS2-CICD testing" doc:name="Set Payload" doc:id="49a0eecb-cdce-419c-b546-e802ef8385ee" />
+		<set-payload value="EAS2-CICD testing by Raja Maganti" doc:name="Set Payload" doc:id="49a0eecb-cdce-419c-b546-e802ef8385ee" />
 	</flow>
 </mule>
