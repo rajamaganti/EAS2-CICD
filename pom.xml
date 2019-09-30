@@ -33,7 +33,7 @@
       					<password>Harika1225</password>
       					<applicationName>eas2-cicd</applicationName>
       					<environment>SANDBOX</environment>
-      					<workerType>Micro</wrokerType>
+      					<workerType>Micro</workerType>
 	  				<workers>1</wrokers>    
    					</cloudHubDeployment>
  				</configuration>
