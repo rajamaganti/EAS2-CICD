@@ -32,7 +32,7 @@
       					<username>magantiraja</username>
       					<password>Harika1225</password>
       					<applicationName>eas2-cicd</applicationName>
-      					<environment>Design</environment>
+      					<environment>Sandbox</environment>
       					<workerType>Micro</workerType>
 	  				<workers>1</workers>    
    					</cloudHubDeployment>
