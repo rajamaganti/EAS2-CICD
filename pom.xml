@@ -36,8 +36,7 @@
       					<workerType>Micro</wrokerType>
 	  				<workers>1</wrokers>    
    					</cloudHubDeployment>
-  </configuration>
-				</configuration>
+ 				</configuration>
 			</plugin>
 		</plugins>
 	</build>
