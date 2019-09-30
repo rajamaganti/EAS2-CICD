@@ -34,7 +34,7 @@
       					<applicationName>eas2-cicd</applicationName>
       					<environment>SANDBOX</environment>
       					<workerType>Micro</workerType>
-	  				<workers>1</wrokers>    
+	  				<workers>1</workers>    
    					</cloudHubDeployment>
  				</configuration>
 			</plugin>
